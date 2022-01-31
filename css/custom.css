@@ -1,1 +1,12 @@
-#home_team {padding-right: 5em;}
+#home_team {padding-right: 1.5em;}
+#home_team_score 
+{
+    padding-right: 4em;
+}
+#away_team {padding-left: 1.5em;}
+#away_team_score 
+{
+    padding-left: 4em;
+}
+#minus_home {margin-right: 0.5em; margin-left: 0px;}
+#plus_away {margin-left: 0.5em; margin-right: 0px;}
