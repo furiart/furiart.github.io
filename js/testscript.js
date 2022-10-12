@@ -1,4 +1,4 @@
 function addScore(name)
 {
-document.getElementById(name).innerHTML = "Welcome";
+document.getElementById(name).innerHTML += 1;
 }
